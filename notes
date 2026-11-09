@@ -1,0 +1,6 @@
+#tkinter is a python libary used to create GUI applications. 
+# there are different GUI elements in tkinter known as widgets
+1.button
+2.label
+3.entry
+4.text
